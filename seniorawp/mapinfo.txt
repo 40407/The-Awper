@@ -1683,7 +1683,6 @@
 		"end_dist"			"150.000000"
 	}
 	
-
 //=======================================================================	
 //===============front of survivors 生还之锋
 	"fos1m3_factory"
@@ -1711,6 +1710,105 @@
 				"max"		"99"
 			}
 		}
+		"ItemLimits"
+		{
+			"pain_pills"	"4"
+		}
+	}
+
+//=======================================================================
+//=============== Arena of the Dead 死亡舞台
+	"jsarena201_town"
+	{
+		"start_point"		"497.707031 -1611.576416 62.031250"
+		"end_point"			"3112.440430 -594.903381 145.031250"
+		"start_dist"		"50.000000"
+		"start_extra_dist"	"250.000000"
+		"end_dist"			"50.000000"
+		"max_distance"		"600"
+		"tank_ban_flow"
+		{
+			"1"
+			{
+				"min"		"75"
+				"max"		"99"
+			}
+		}
+	}
+	"jsarena202_alley"
+	{
+		"start_point"		"5414.663086 716.187561 145.031250"
+		"end_point"			"-491.261719 471.349823 676.031250"
+		"start_dist"		"50.000000"
+		"start_extra_dist"	"250.000000"
+		"end_dist"			"50.000000"
+		"tank_ban_flow"
+		{
+			"1"
+			{
+				"min"		"35"
+				"max"		"70"
+			}
+		}
+	}
+	"jsarena203_roof"
+	{
+		"start_point"		"3418.395264 3229.471436 674.031250"
+		"end_point"			"-888.021973 474.375458 668.247681"
+		"start_dist"		"50.000000"
+		"start_extra_dist"	"250.000000"
+		"end_dist"			"50.000000"
+		"max_distance"		"400"
+		"tank_ban_flow"
+		{
+			"1"
+			{
+				"min"		"50"
+				"max"		"65"
+			}
+			"2"
+			{
+				"min"		"72"
+				"max"		"99"
+			}
+		}
+	}
+	"jsarena204_arena"
+	{
+		"start_point"		"4937.140137 -155.900192 668.247681"
+		"end_point"			"-849.202332 -976.774170 531.078735"
+		"start_dist"		"50.000000"
+		"start_extra_dist"	"250.000000"
+		"end_dist"			"50.000000"
+		"tank_ban_flow"
+		{
+
+			"1"
+			{
+				"min"		"86"
+				"max"		"99"
+			}
+
+		}
+		"ItemLimits"
+		{
+			"pain_pills"	"4"
+		}
+	}
+
+//=======================================================================
+//=============== Prague 布拉格
+	"prague_2_middle_class"
+	{
+		"max_distance"		"500"
+	}
+	"prague_3_park"
+	{
+		"max_distance"		"500"
+	}
+	"prague_4_bus_depo"
+	{
+		"max_distance"		"700"
 		"ItemLimits"
 		{
 			"pain_pills"	"4"
