@@ -10,7 +10,6 @@
 
 | 中文名称       | 英文名称          |
 |---------------|------------------|
-| 消逝牺牲       | The Passifice    |
 | 死亡丧钟       | Death Toll       |
 | 寂静时分       | Dead Air         |
 | 血腥收获       | Blood Harvest    |
