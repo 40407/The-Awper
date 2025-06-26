@@ -45,3 +45,4 @@
 | 四面硬币           | 4 Sided Coin          |
 | 大佛寺万圣节       | Big Wat Halloween     |
 | 坠机险途：改航     | Crash Course Rerouted |
+| 我们不去莱温霍姆   | We Don't Go To Ravenholm  |
